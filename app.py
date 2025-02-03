@@ -37,7 +37,7 @@ def input_image_setup(uploaded_image):
 
 st.set_page_config(page_title = 'Gemini Health APP')
 st.title('Gemini Health APP')
-input = st.text_input('Input Prompt:',key='input')
+# input = st.text_input('Input Prompt:',key='input')
 uploaded_image = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png"])
 image=""   
 if uploaded_image is not None:
