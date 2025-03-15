@@ -24,21 +24,26 @@ This project is a **Generative AI-based calorie counter** that uses **Google's G
 
 ### **1️⃣ Clone the repository**  
 ```bash
-git clone https://github.com/yourusername/Gemini-Calorie-Counter.git
+git clone https://github.com/VishalPython1594/Calorie-Counter-LIM.git
 cd Gemini-Calorie-Counter
+```
 
 **2️⃣ Install dependencies**:
+```bash
    pip install -r requirements.txt
+```
 
 **3️⃣ Set up API Key**
 * Obtain a Google Gemini API Key from the Google AI Studio
 * Create a .env file and add your API key:
 ```bash
 GOOGLE_API_KEY=your_google_api_key
+```
 
 **4️⃣ Run the Streamlit app**
 ```bash
 streamlit run app.py
+```
 
 ### **🏗️ Project Workflow**
 1️⃣ User uploads an image of food via the Streamlit app.
