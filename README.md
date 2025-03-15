@@ -63,5 +63,12 @@ Click "Tell me the total calories" to get calorie breakdown.
 ![cal_2](https://github.com/user-attachments/assets/2af77f03-a27d-4f1c-9555-a7f8142debd2)
 ![cal_3](https://github.com/user-attachments/assets/895b2825-c066-434f-91b3-456cf02a6fa8)
 
+## 🤝 Contributing
+Contributions are welcome! Feel free to submit a pull request if you have improvements or new features.
 
+## 📜 License
+This project is licensed under the MIT License.
 
+## 📩 Contact & Support
+📧 Email: vishal1594@outlook.com
+🔗 LinkedIn: https://www.linkedin.com/in/vishal-shivnani-87487110a/
