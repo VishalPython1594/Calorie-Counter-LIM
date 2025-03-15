@@ -45,7 +45,8 @@ GOOGLE_API_KEY=your_google_api_key
 streamlit run app.py
 ```
 
-### **🏗️ Project Workflow**
+### **🏗️ Project Workflow**:
+
 1️⃣ User uploads an image of food via the Streamlit app.
 2️⃣ Image is processed and sent to Google Gemini Pro Vision API.
 3️⃣ AI identifies food items and estimates their calorie count.
